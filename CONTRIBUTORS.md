@@ -10,3 +10,7 @@
 ### Name: [Matthew Helmer](https://github.com/MatthewHelmer)
 - Bio: Computer Science student in Nova Scotia, Canada
 - Programming Languages: Python, C, Java
+
+### Name: [Amirul Fikri](https://github.com/buzzfizz)
+- Bio: A laravel developer from Malaysia
+- Programming Languages: PHP, HTML, JavaScript
