@@ -22,3 +22,4 @@
 ### Name: [Sanjay Krishnan E M](https://github.com/sanjay1999)
 - Bio: A Programming enthusiast
 - Programming Language: Cpp,C
+- Programming Languages: PHP, HTML, JavaScript
