@@ -62,12 +62,12 @@ Add a yourusername.xx script in any language of your choice!
 use this model:
 Like this one:
 
-// LANGUAGE: Javascript
-// ENV: Node.js
-// AUTHOR: Moji Tavoni
-// GITHUB: https://github.com/Mojtabatmj
+LANGUAGE: Javascript
+ENV: Node.js
+AUTHOR: Moji Tavoni
+GITHUB: https://github.com/Mojtabatmj
 
-// console.log('Hello, Github world Let's start a wonderful Coding!');
+console.log('Hello, Github world Let's start a wonderful Coding!');
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the lanuage you chose in your comments too!
 
