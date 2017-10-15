@@ -34,3 +34,7 @@
 #### Name: [Sanjay Krishnan E M](https://github.com/sanjay1999)
 - Bio: A Programming enthusiast
 - Programming Language: C++, C, PHP, HTML, JavaScript
+
+#### Name: [Cristian Riaño](https://github.com/cristianriano)
+- Bio: Developer trying to start helping in OpenSource community
+- Programming Language: Ruby, Java, Javascript
