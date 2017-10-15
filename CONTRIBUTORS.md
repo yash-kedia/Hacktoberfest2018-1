@@ -18,3 +18,7 @@
 ### Name: [Amirul Fikri](https://github.com/buzzfizz)
 - Bio: A laravel developer from Malaysia
 - Programming Languages: PHP, HTML, JavaScript
+
+#### Name: [Hugo Nunes](https://github.com/GitHugop)
+- Bio: Hobbyist
+- Programming Language: PHP, Python, JavaScript, HTML/CSS
