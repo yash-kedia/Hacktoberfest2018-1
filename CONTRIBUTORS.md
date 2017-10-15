@@ -11,14 +11,22 @@
 - Bio: Student trying to get more involvded with open source projects
 - Programming Language: Python, Java, HTML, CSS, Swift, C++
 
-### Name: [Matthew Helmer](https://github.com/MatthewHelmer)
+#### Name: [Matthew Helmer](https://github.com/MatthewHelmer)
 - Bio: Computer Science student in Nova Scotia, Canada
 - Programming Languages: Python, C, Java
 
-### Name: [Amirul Fikri](https://github.com/buzzfizz)
+#### Name: [Amirul Fikri](https://github.com/buzzfizz)
 - Bio: A laravel developer from Malaysia
 - Programming Languages: PHP, HTML, JavaScript
 
-### Name: [Rusty Tyner](https://github.com/rtyner)
+#### Name: [Rusty Tyner](https://github.com/rtyner)
 - Bio: Sysadmin in the USA, just getting into open source, not quote sure what I'm even doing.
 - Programming Languages: a little Python and Powershell
+
+#### Name: [Hugo Nunes](https://github.com/GitHugop)
+- Bio: Hobbyist
+- Programming Language: PHP, Python, JavaScript, HTML/CSS
+
+#### Name: [Sanjay Krishnan E M](https://github.com/sanjay1999)
+- Bio: A Programming enthusiast
+- Programming Language: C++, C, PHP, HTML, JavaScript
