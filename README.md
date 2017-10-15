@@ -26,18 +26,17 @@ https://hacktoberfest.digitalocean.com/
 
 How Contribute to This Project
 
-Here are 3 quick and painless ways to contribute to this project:
+Here are 2 quick and painless ways to contribute to this project:
 
 Add your name to the CONTRIBUTORS.md file
-Add a Profile Page to the profiles directory
-Create a simple 'Hello, World' script in a language of your choice
-Choose one or all 3, make a Pull Request for your work, wait for it to be merged!
+Create a `Hello` Script in your way in a language of your choice
+Choose one or all 2, make a Pull Request for your work, wait for it to be merged!
 
 Getting Started
 
 Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 Clone your fork down to your local machine
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/mojtabatmj/Hacktoberfest2017.git
 Create a branch
 git checkout -b branch-name
 Make your changes (Choose from any task below)
@@ -57,7 +56,7 @@ use this model:
 - Bio: What are you gonna share with other?
 - Programming Language: Which programming language do you know
 
-3. Create a `Hello` Script in your way
+2. Create a `Hello` Script in your way
 
 Add a yourusername.xx script in any language of your choice!
 use this model:
