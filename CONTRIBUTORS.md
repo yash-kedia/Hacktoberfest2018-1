@@ -19,6 +19,10 @@
 - Bio: A laravel developer from Malaysia
 - Programming Languages: PHP, HTML, JavaScript
 
+#### Name: [Rusty Tyner](https://github.com/rtyner)
+- Bio: Sysadmin in the USA, just getting into open source, not quote sure what I'm even doing.
+- Programming Languages: a little Python and Powershell
+
 #### Name: [Hugo Nunes](https://github.com/GitHugop)
 - Bio: Hobbyist
 - Programming Language: PHP, Python, JavaScript, HTML/CSS
