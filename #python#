@@ -1,5 +1,0 @@
-  python:
-      - 3.6
-          - nightly
-	    script:
-	        - pytest1;4205;0c
