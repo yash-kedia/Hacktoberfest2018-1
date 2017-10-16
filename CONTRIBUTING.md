@@ -78,3 +78,8 @@
 #### Name: [Hunter Mcnulty](https://github.com/heckerman100)
 - Bio Just an average programmer
 - Programming Language: Python, Java, HTML
+
+#### Name: [Khaled Barie](https://github.com/k-alkiek)
+- Bio: Computer & Systems Engineering Undergraduate
+- Programming Language: Java, C++, Ruby, Javascript
+
