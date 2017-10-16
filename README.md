@@ -24,7 +24,7 @@ This is a Public Repository open to all members of the GitHub Community. Any mem
 
 A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first Pull Request to any Public Repository on GitHub and contribute to the Open Source Developer Community.
 
-https://hacktoberfest.digitalocean.com/
++ https://hacktoberfest.digitalocean.com/
 
 ### How Contribute to This Project
 
