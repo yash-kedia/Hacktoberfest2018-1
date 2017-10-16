@@ -39,6 +39,10 @@
 - Bio: Developer trying to start helping in OpenSource community
 - Programming Language: Ruby, Java, Javascript
 
+#### Name: [Michelle Ambrisco](https://github.com/michellegolle)
+- Bio: Full stack dev in Denver, CO, USA
+- Programming Language: Ruby, Javascript, HTML/CSS
+
 #### Name: [Hans Christian Cristobal](https://github.com/Hansuuuuuuuuuu)
 - Bio: Software Engineer in PH
 - Programming Language: Ruby, Java, VBA, C#, JavaScript, Python
