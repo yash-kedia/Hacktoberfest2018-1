@@ -75,6 +75,10 @@
 - Bio: Computer Science Undergraduate, open source entusiast, full-stack developer
 - Programming Language: Python, Java, HTML, CSS, Javascript, Angular, React, Node
 
+#### Name: [Safeer Hayat](https://github.com/saf94)
+- Bio: Self-taught developer, front-end development
+- Programming Language: Javascript, HTML/CSS
+
 #### Name: [Hunter Mcnulty](https://github.com/heckerman100)
 - Bio Just an average programmer
 - Programming Language: Python, Java, HTML
