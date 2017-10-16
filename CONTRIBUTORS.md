@@ -42,3 +42,12 @@
 #### Name: [Michelle Ambrisco](https://github.com/michellegolle)
 - Bio: Full stack dev in Denver, CO, USA
 - Programming Language: Ruby, Javascript, HTML/CSS
+
+#### Name: [Hans Christian Cristobal](https://github.com/Hansuuuuuuuuuu)
+- Bio: Software Engineer in PH
+- Programming Language: Ruby, Java, VBA, C#, JavaScript, Python
+
+#### Name: [Ganpat Agarwal](https://github.com/ganpatagarwal)
+- Bio: Opensource developer and contributor.
+- Programming Language: Python, Ruby, GO, Shell Scripts
+
