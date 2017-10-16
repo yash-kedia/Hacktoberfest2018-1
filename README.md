@@ -1,6 +1,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-ام با یک کمک از دوست خوبمون شروع میکنم یک سری به این لینک پایین بزنید
+
+سلام با یک کمک از دوست خوبمون شروع میکنم یک سری به این لینک پایین بزنید
 
 + http://bit.ly/2zpixMZ
 
