@@ -1,15 +1,23 @@
-## HacktoberFest Starter Project
+# Welcome to Hacktoberfest 2017!
+The goal of this repo is to help beginners who are doing their first pull requests. Feel free to join!
 
-Use this project to make your first contribution to an open source project on GitHub. Practice making your first Pull Request to a public repository before doing the real thing!
+## Instruction
+try to solve issues.
 
-Celebrate HacktoberFest by getting involved in the Open Source Community by completing some simple tasks in this project.
+# How to Create a Pull Request
 
-This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
+  - Click on the fork on the top to fork this repo.
+  - Go to your repo where you fork the project.
+  - Hit the clone button on your forked repo and copy the given link.
+  - On your terminal/command prompt, type "git clone [put the link here]".
+  - Add your name in the CONTRIBUTORS.md.
+  - Afterward, on your terminal/command prompt, type "git add CONTRIBUTORS.md".
+  - then type 'git commit -m "[type a message]" '.
+  - Push the commit. then type "git push origin master".
+  - Go back to the original repo.
+  - Hit "new pull request" and compare between forks.
+  - Confirm the pull request and that's it!
 
-+ https://alicewonderland.github.io/hacktoberfest/
+### Installation
 
-### What is Hacktoberfest?
-
-A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first Pull Request to any Public Repository on GitHub and contribute to the Open Source Developer Community.
-
-+ https://hacktoberfest.digitalocean.com/
+Make sure [git](https://git-scm.com/book/id/v2/Getting-Started-Installing-Git) is installed.
