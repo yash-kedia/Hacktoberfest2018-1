@@ -66,3 +66,8 @@
 #### Name: [Bambang Supriadi](https://github.com/bamsarts)
 - Bio: Fullstack Developer
 - Programming Language: Java, PHP, C++, Javascript
+
+#### Name: [Shanika Ediriweera](https://github.com/ShanikaEdiriweera)
+- Bio: Computer Science Undergraduate, open source entusiast
+- Programming Language: Python, Java, HTML, CSS, Javascript, Angular, React
+
