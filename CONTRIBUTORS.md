@@ -55,3 +55,6 @@
 - Bio: Rails enthusiast and open source contributor.
 - Programming Language: Ruby, C
 
+#### Name: [Waheeb Aghers](https://github.com/wahe3bru)
+- Bio: programming/data science entusiast
+- Programming Language: Python, JavaScript, HTML/CSS
