@@ -75,3 +75,6 @@
 - Bio: Computer Science Undergraduate, open source entusiast, full-stack developer
 - Programming Language: Python, Java, HTML, CSS, Javascript, Angular, React, Node
 
+#### Name: [Khaled Barie](https://github.com/k-alkiek)
+- Bio: Computer & Systems Engineering Undergraduate
+- Programming Language: Java, C++, Ruby, Javascript
