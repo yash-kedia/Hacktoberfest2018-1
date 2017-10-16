@@ -38,3 +38,7 @@
 #### Name: [Cristian Riaño](https://github.com/cristianriano)
 - Bio: Developer trying to start helping in OpenSource community
 - Programming Language: Ruby, Java, Javascript
+
+#### Name: [Hans Christian Cristobal](https://github.com/Hansuuuuuuuuuu)
+- Bio: Software Engineer in PH
+- Programming Language: Ruby, Java, VBA, C#, JavaScript, Python
