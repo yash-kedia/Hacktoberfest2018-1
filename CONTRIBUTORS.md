@@ -58,3 +58,7 @@
 #### Name: [Waheeb Aghers](https://github.com/wahe3bru)
 - Bio: programming/data science entusiast
 - Programming Language: Python, JavaScript, HTML/CSS
+
+#### Name: [Arnold Szabo](https://github.com/szaboa)
+- Bio: Android app developer
+- Programming Language: Java, Kotlin, C++
