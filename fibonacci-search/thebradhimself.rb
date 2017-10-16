@@ -1,0 +1,10 @@
+
+# LANGUAGE: ruby
+# AUTHOR: Brad Hintze
+# GITHUB: https://github.com/thebradhimself
+
+def fibonacci( n )
+  return  n  if ( 0..1 ).include? n
+  ( fibonacci( n - 1 ) + fibonacci( n - 2 ) )
+end
+puts fibonacci( 12 )
