@@ -62,3 +62,7 @@
 #### Name: [Arnold Szabo](https://github.com/szaboa)
 - Bio: Android app developer
 - Programming Language: Java, Kotlin, C++
+
+#### Name: [Shanika Ediriweera](https://github.com/ShanikaEdiriweera)
+- Bio: Computer Science Undergraduate, open source entusiast
+- Programming Language: Python, Java, HTML, CSS, Javascript, Angular, React
