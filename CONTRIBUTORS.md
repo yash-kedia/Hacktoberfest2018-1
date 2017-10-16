@@ -51,3 +51,6 @@
 - Bio: Opensource developer and contributor.
 - Programming Language: Python, Ruby, GO, Shell Scripts
 
+#### Name: [Waheeb Aghers](https://github.com/wahe3bru)
+- Bio: programming/data science entusiast
+- Programming Language: Python, JavaScript, HTML/CSS
