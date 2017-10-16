@@ -72,6 +72,6 @@
 - Programming Language: Java, PHP, C++, Javascript
 
 #### Name: [Shanika Ediriweera](https://github.com/ShanikaEdiriweera)
-- Bio: Computer Science Undergraduate, open source entusiast
-- Programming Language: Python, Java, HTML, CSS, Javascript, Angular, React
+- Bio: Computer Science Undergraduate, open source entusiast, full-stack developer
+- Programming Language: Python, Java, HTML, CSS, Javascript, Angular, React, Node
 
