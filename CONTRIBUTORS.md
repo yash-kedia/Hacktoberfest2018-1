@@ -62,3 +62,7 @@
 #### Name: [Arnold Szabo](https://github.com/szaboa)
 - Bio: Android app developer
 - Programming Language: Java, Kotlin, C++
+
+#### Name: [Bambang Supriadi](https://github.com/bamsarts)
+- Bio: Fullstack Developer
+- Programming Language: Java, PHP, C++, Javascript
