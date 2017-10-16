@@ -38,3 +38,7 @@
 #### Name: [Cristian Riaño](https://github.com/cristianriano)
 - Bio: Developer trying to start helping in OpenSource community
 - Programming Language: Ruby, Java, Javascript
+
+#### Name: [Ganpat Agarwal](https://github.com/ganpatagarwal)
+- Bio: Opensource developer and contributor.
+- Programming Language: Python, Ruby, GO, Shell Scripts
