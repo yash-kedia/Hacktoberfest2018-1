@@ -101,3 +101,7 @@
 #### Name: [Mohamed shazly](https://github.com/shazly333)
 - Bio: I'm a programmer
 - Programming Language: C++, c, c#, Java
+
+### Name: [Ronistone Junior](https://github.com/ronistone)
+- Bio: Computer Science Student
+- Programming Languange: C++, C, Java, Python, Haskell
