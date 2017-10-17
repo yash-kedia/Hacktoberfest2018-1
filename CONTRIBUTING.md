@@ -64,7 +64,7 @@
 - Programming Language: Java, Kotlin, C++
 
 #### Name: [Srebalaji Thirumalai](https://github.com/srebalaji)
-- Bio: Made in India. Software Enginner. 
+- Bio: Made in India. Software Enginner.
 - Programming Language: Ruby, Java, JavaScript
 
 #### Name: [Bambang Supriadi](https://github.com/bamsarts)
@@ -90,3 +90,8 @@
 #### Name: [Youssef Ali](https://github.com/youssefAli11997)
 - Bio: Computer & Systems Engineering Undergraduate, Alexandria University, Egypt
 - Programming Language: Java, C++, Python, Javascript, PHP
+
+#### Name: [Natasha Kelly](https://github.com/gURLmeetsCode)
+- Bio: I move fast and break things!
+- Programming Language: Ruby, Javascript, React.js, HTML/CSS, Rails
+
