@@ -96,7 +96,7 @@
 - Programming Language: Ruby, Javascript, React.js, HTML/CSS, Rails
 
 #### Name: [Eshraq Ibrahim](https://github.com/EshraqIbrahim)
-- Bio: Student at Faculty of Engineering Alexandria University, Computer & Systems department 
+- Bio: Student at Faculty of Engineering Alexandria University, Computer & Systems department
 - Programming Language: Java, C, HTML/CSS, Javascript, PHP
 #### Name: [Mohamed shazly](https://github.com/shazly333)
 - Bio: I'm a programmer
@@ -105,3 +105,7 @@
 ### Name: [Ronistone Junior](https://github.com/ronistone)
 - Bio: Computer Science Student
 - Programming Languange: C++, C, Java, Python, Haskell
+
+### Name: [Phaneendra Marisa](https://github.com/spmarisa)
+- Bio: Pro-Grammar
+- Programming Languange: Rails, Python, C++, Erlang, Go
