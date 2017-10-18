@@ -1,6 +1,11 @@
-﻿#### Name: [Hassan Talpur](https://github.com/hexabysmal)
+
+#### Name: [Hassan Talpur](https://github.com/hexabysmal)
 - Bio: Newbie trying to contribule to open source 
 - Programming Language: Python, Js, HTML, Css, PHP, Java, React 
+
+#### Name: [Hassan Talpur](https://github.com/hexabysmal)
+- Bio: Newbie trying to contribule to open source
+- Programming Language: Python, Js, HTML, Css, PHP, Java, React
 
 #### Name: [Moji Tavoni](https://github.com/mojtabatmj)
 - Bio: I'm a Geek
@@ -121,3 +126,8 @@
 #### Name: [Adailton Palhano](https://github.com/adailtonasp)
 - Bio: A noob in github
 - Programming Languange: Java,C
+
+#### Name: [Naomichi Kubota](https://github.com/Nao000)
+- Bio: I wanna evolve all human.
+- Programming Language: PHP, C
+
