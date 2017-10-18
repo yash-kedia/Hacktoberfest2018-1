@@ -121,3 +121,8 @@
 #### Name: [Naomichi Kubota](https://github.com/Nao000)
 - Bio: I wanna evolve all human.
 - Programming Language: PHP, C
+
+#### Name: [Ashik Paul](https://github.com/Nao000)
+- Bio: I just started my career and try hard to find ways to contribute to open source community.
+- Programming Language: C, C#, Java, JavaScript 
+
