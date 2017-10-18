@@ -105,3 +105,7 @@
 ### Name: [Ronistone Junior](https://github.com/ronistone)
 - Bio: Computer Science Student
 - Programming Languange: C++, C, Java, Python, Haskell
+
+### Name: [Y D Jain](https://github.com/ydjain)
+- Bio: Computer Science Student
+- Programming Languange: C++, C, Java, Python
