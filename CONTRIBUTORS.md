@@ -62,3 +62,7 @@
 #### Name: [Arnold Szabo](https://github.com/szaboa)
 - Bio: Android app developer
 - Programming Language: Java, Kotlin, C++
+
+#### Name: [Naomichi Kubota](https://github.com/Nao000)
+- Bio: I wanna evolve all human.
+- Programming Language: PHP, C
