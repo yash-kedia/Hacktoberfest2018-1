@@ -123,6 +123,6 @@
 - Programming Language: PHP, C
 
 #### Name: [Ashik Paul](https://github.com/Nao000)
-- Bio: I just started my career and try hard to find ways to contribute to open source community.
+- Bio: I just started my career and try hard in finding ways to contribute to open source community.
 - Programming Language: C, C#, Java, JavaScript 
 
