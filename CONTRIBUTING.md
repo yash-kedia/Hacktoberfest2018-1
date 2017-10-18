@@ -1,3 +1,8 @@
+
+#### Name: [Hassan Talpur](https://github.com/hexabysmal)
+- Bio: Newbie trying to contribule to open source 
+- Programming Language: Python, Js, HTML, Css, PHP, Java, React 
+
 #### Name: [Hassan Talpur](https://github.com/hexabysmal)
 - Bio: Newbie trying to contribule to open source
 - Programming Language: Python, Js, HTML, Css, PHP, Java, React
@@ -117,6 +122,10 @@
 #### Name: [Phaneendra Marisa](https://github.com/spmarisa)
 - Bio: Pro-Grammar
 - Programming Languange: Rails, Python, C++, Erlang, Go
+
+#### Name: [Adailton Palhano](https://github.com/adailtonasp)
+- Bio: A noob in github
+- Programming Languange: Java,C
 
 #### Name: [Naomichi Kubota](https://github.com/Nao000)
 - Bio: I wanna evolve all human.
