@@ -131,6 +131,10 @@
 - Bio: I wanna evolve all human.
 - Programming Language: PHP, C
 
+#### Name: [Michael Riesberg-Timmer](https://github.com/michohl)
+- Bio: Computer Science student at the University of Northern Iowa
+- Programming Lanuage: Python, PHP, Java, C++
+
 #### Name: [Vladimir Chmykov](https://github.com/v-chmykov)
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
