@@ -1,3 +1,6 @@
+#### Name: [Hassan Talpur](https://github.com/hexabysmal)
+- Bio: Newbie trying to contribule to open source 
+- Programming Language: Python, Js, HTML, Css, PHP, Java, React 
 
 #### Name: [Moji Tavoni](https://github.com/mojtabatmj)
 - Bio: I'm a Geek
@@ -63,6 +66,54 @@
 - Bio: Android app developer
 - Programming Language: Java, Kotlin, C++
 
-#### Name: [Naomichi Kubota](https://github.com/Nao000)
-- Bio: I wanna evolve all human.
-- Programming Language: PHP, C
+#### Name: [Srebalaji Thirumalai](https://github.com/srebalaji)
+- Bio: Made in India. Software Enginner.
+- Programming Language: Ruby, Java, JavaScript
+
+#### Name: [Bambang Supriadi](https://github.com/bamsarts)
+- Bio: Fullstack Developer
+- Programming Language: Java, PHP, C++, Javascript
+
+#### Name: [Shanika Ediriweera](https://github.com/ShanikaEdiriweera)
+- Bio: Computer Science Undergraduate, open source entusiast, full-stack developer
+- Programming Language: Python, Java, HTML, CSS, Javascript, Angular, React, Node
+
+#### Name: [Safeer Hayat](https://github.com/saf94)
+- Bio: Self-taught developer, front-end development
+- Programming Language: Javascript, HTML/CSS
+
+#### Name: [Hunter Mcnulty](https://github.com/heckerman100)
+- Bio Just an average programmer
+- Programming Language: Python, Java, HTML
+
+#### Name: [Khaled Barie](https://github.com/k-alkiek)
+- Bio: Computer & Systems Engineering Undergraduate
+- Programming Language: Java, C++, Ruby, Javascript
+
+#### Name: [Youssef Ali](https://github.com/youssefAli11997)
+- Bio: Computer & Systems Engineering Undergraduate, Alexandria University, Egypt
+- Programming Language: Java, C++, Python, Javascript, PHP
+
+#### Name: [Natasha Kelly](https://github.com/gURLmeetsCode)
+- Bio: I move fast and break things!
+- Programming Language: Ruby, Javascript, React.js, HTML/CSS, Rails
+
+#### Name: [Eshraq Ibrahim](https://github.com/EshraqIbrahim)
+- Bio: Student at Faculty of Engineering Alexandria University, Computer & Systems department
+- Programming Language: Java, C, HTML/CSS, Javascript, PHP
+
+#### Name: [Mohamed shazly](https://github.com/shazly333)
+- Bio: I'm a programmer
+- Programming Language: C++, c, c#, Java
+
+#### Name: [Ronistone Junior](https://github.com/ronistone)
+- Bio: Computer Science Student
+- Programming Languange: C++, C, Java, Python, Haskell
+
+#### Name: [Y D Jain](https://github.com/ydjain)
+- Bio: Computer Science Student
+- Programming Languange: C++, C, Java, Python
+
+#### Name: [Phaneendra Marisa](https://github.com/spmarisa)
+- Bio: Pro-Grammar
+- Programming Languange: Rails, Python, C++, Erlang, Go
