@@ -1,3 +1,6 @@
+#### Name: [Hassan Talpur](https://github.com/hexabysmal)
+- Bio: Newbie trying to contribule to open source 
+- Programming Language: Python, Js, HTML, Css, PHP, Java, React 
 
 #### Name: [Moji Tavoni](https://github.com/mojtabatmj)
 - Bio: I'm a Geek
