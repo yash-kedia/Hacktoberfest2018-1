@@ -121,3 +121,8 @@
 #### Name: [Naomichi Kubota](https://github.com/Nao000)
 - Bio: I wanna evolve all human.
 - Programming Language: PHP, C
+
+
+#### Name: [Vladimir Chmykov](https://github.com/v-chmykov)
+- Bio: Slapping the keyboard until something good happens
+- Programming Language: PHP, JS, Python
