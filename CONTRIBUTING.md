@@ -121,3 +121,7 @@
 #### Name: [Naomichi Kubota](https://github.com/Nao000)
 - Bio: I wanna evolve all human.
 - Programming Language: PHP, C
+
+#### Name: [Michael Riesberg-Timmer](https://github.com/michohl)
+- Bio: Computer Science student at the University of Northern Iowa
+- Programming Lanuage: Python, PHP, Java, C++
