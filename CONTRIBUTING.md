@@ -142,3 +142,8 @@
 #### Name: [Vladimir Chmykov](https://github.com/v-chmykov)
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
+
+#### Name: [Benjamin Nadarević](https://github.com/Pyhscript)
+
+- Bio: playing CTFs, coding for fun, mechatronics highschool student
+- Programming Language: Python, C
