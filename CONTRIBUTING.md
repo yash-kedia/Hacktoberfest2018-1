@@ -1,7 +1,7 @@
 
 #### Name: [Hassan Talpur](https://github.com/hexabysmal)
-- Bio: Newbie trying to contribule to open source 
-- Programming Language: Python, Js, HTML, Css, PHP, Java, React 
+- Bio: Newbie trying to contribule to open source
+- Programming Language: Python, Js, HTML, Css, PHP, Java, React
 
 #### Name: [Hassan Talpur](https://github.com/hexabysmal)
 - Bio: Newbie trying to contribule to open source
@@ -133,7 +133,7 @@
 
 #### Name: [Ashik Paul](https://github.com/Nao000)
 - Bio: I just started my career and try hard in finding ways to contribute to open source community.
-- Programming Language: C, C#, Java, JavaScript 
+- Programming Language: C, C#, Java, JavaScript
 
 #### Name: [Michael Riesberg-Timmer](https://github.com/michohl)
 - Bio: Computer Science student at the University of Northern Iowa
@@ -142,3 +142,7 @@
 #### Name: [Vladimir Chmykov](https://github.com/v-chmykov)
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
+
+#### Name: [Sean Huang](https://github.com/kurotyan514)
+- Bio: I wanna become better develop and better human
+- Programming Language: RUBY, JS
