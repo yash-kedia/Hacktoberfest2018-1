@@ -143,6 +143,10 @@
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
 
+#### Name: [Gustavo Araújo](https://github.com/GustavoHGAraujo)
+- Bio: Computer Science student at the Pontifical Catholic University of Minas Gerais
+- Programming Language: Go, Kotlin, Java
+
 #### Name: [Emanoel Lopes](https://github.com/emanoelopes)
 - Bio: What am I doing here?
 - Programming Language: Ruby
