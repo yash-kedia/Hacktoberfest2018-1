@@ -147,6 +147,11 @@
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
 
+#### Name: [Benjamin Nadarević](https://github.com/Pyhscript)
+
+- Bio: playing CTFs, coding for fun, mechatronics highschool student
+- Programming Language: Python, C
+
 #### Name: [Gustavo Araújo](https://github.com/GustavoHGAraujo)
 - Bio: Computer Science student at the Pontifical Catholic University of Minas Gerais
 - Programming Language: Go, Kotlin, Java
