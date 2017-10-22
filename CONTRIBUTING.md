@@ -1,3 +1,7 @@
+#### Name: [Abhey Rana](https://github.com/Abhey)
+- Bio: Computer Science undergraduate who loves to code
+- Programming Language: C, C++, Java, Python, HTML
+
 
 #### Name: [Hassan Talpur](https://github.com/hexabysmal)
 - Bio: Newbie trying to contribule to open source 
