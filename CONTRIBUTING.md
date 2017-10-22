@@ -2,10 +2,9 @@
 - Bio: Computer Science undergraduate who loves to code
 - Programming Language: C, C++, Java, Python, HTML
 
-
 #### Name: [Hassan Talpur](https://github.com/hexabysmal)
-- Bio: Newbie trying to contribule to open source 
-- Programming Language: Python, Js, HTML, Css, PHP, Java, React 
+- Bio: Newbie trying to contribule to open source
+- Programming Language: Python, Js, HTML, Css, PHP, Java, React
 
 #### Name: [Hassan Talpur](https://github.com/hexabysmal)
 - Bio: Newbie trying to contribule to open source
@@ -137,7 +136,7 @@
 
 #### Name: [Ashik Paul](https://github.com/Nao000)
 - Bio: I just started my career and try hard in finding ways to contribute to open source community.
-- Programming Language: C, C#, Java, JavaScript 
+- Programming Language: C, C#, Java, JavaScript
 
 #### Name: [Michael Riesberg-Timmer](https://github.com/michohl)
 - Bio: Computer Science student at the University of Northern Iowa
@@ -147,8 +146,11 @@
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
 
-#### Name: [Benjamin Nadarević](https://github.com/Pyhscript)
+#### Name: [Sean Huang](https://github.com/kurotyan514)
+- Bio: I wanna become better develop and better human
+- Programming Language: RUBY, JS
 
+#### Name: [Benjamin Nadarević](https://github.com/Pyhscript)
 - Bio: playing CTFs, coding for fun, mechatronics highschool student
 - Programming Language: Python, C
 
