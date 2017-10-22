@@ -161,3 +161,7 @@
 #### Name: [Emanoel Lopes](https://github.com/emanoelopes)
 - Bio: What am I doing here?
 - Programming Language: Ruby
+
+#### Name: [Enrique Barragan](https://github.com/arcticbarra)
+- Bio: Web developer and tech enthusiast
+- Programming Language: Ruby, Python, C++, Elixir
