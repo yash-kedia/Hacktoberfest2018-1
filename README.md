@@ -51,7 +51,7 @@ Wait for your PR review and merge approval!
 Star this repository if you had fun!
 Choose From These Tasks
 
-### 1. Add Your Name to the CONTRIBUTORS.md file,
+### 1. Add Your Name to the CONTRIBUTING.md file,
 use this model:
 
 #### Name: [YOUR NAME](GitHub Link)

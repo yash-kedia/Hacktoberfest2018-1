@@ -1,3 +1,6 @@
+#### Name: [Abhey Rana](https://github.com/Abhey)
+- Bio: Computer Science undergraduate who loves to code
+- Programming Language: C, C++, Java, Python, HTML
 
 #### Name: [Hassan Talpur](https://github.com/hexabysmal)
 - Bio: Newbie trying to contribule to open source
@@ -146,3 +149,15 @@
 #### Name: [Sean Huang](https://github.com/kurotyan514)
 - Bio: I wanna become better develop and better human
 - Programming Language: RUBY, JS
+
+#### Name: [Benjamin Nadarević](https://github.com/Pyhscript)
+- Bio: playing CTFs, coding for fun, mechatronics highschool student
+- Programming Language: Python, C
+
+#### Name: [Gustavo Araújo](https://github.com/GustavoHGAraujo)
+- Bio: Computer Science student at the Pontifical Catholic University of Minas Gerais
+- Programming Language: Go, Kotlin, Java
+
+#### Name: [Emanoel Lopes](https://github.com/emanoelopes)
+- Bio: What am I doing here?
+- Programming Language: Ruby
