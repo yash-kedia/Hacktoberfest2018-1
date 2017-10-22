@@ -1,4 +1,3 @@
-<?php
 // LANGUAGE: C
 // ENV: C
 // AUTHOR: Naomichi Kubota
