@@ -142,3 +142,7 @@
 #### Name: [Vladimir Chmykov](https://github.com/v-chmykov)
 - Bio: Slapping the keyboard until something good happens
 - Programming Language: PHP, JS, Python
+
+#### Name: [Emanoel Lopes](https://github.com/emanoelopes)
+- Bio: What am I doing here?
+- Programming Language: Ruby
