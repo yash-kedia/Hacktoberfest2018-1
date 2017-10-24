@@ -165,3 +165,8 @@
 #### Name: [Enrique Barragan](https://github.com/arcticbarra)
 - Bio: Web developer and tech enthusiast
 - Programming Language: Ruby, Python, C++, Elixir
+
+#### Name: [Neeraj Verma](https://github.com/nvrocks)
+- Bio: Computer science student who loves android development
+- Programming Language: C,C++,Java
+
