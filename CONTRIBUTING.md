@@ -170,3 +170,7 @@
 - Bio: Computer science student who loves android development
 - Programming Language: C,C++,Java
 
+#### Name: [Marieluise Merz](https://github.com/marieluisemerz)
+- Bio: Business & Information Systems Engineering Student
+- Programming Language: Beginner in R, python, and Java
+
