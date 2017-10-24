@@ -161,3 +161,7 @@
 #### Name: [Emanoel Lopes](https://github.com/emanoelopes)
 - Bio: What am I doing here?
 - Programming Language: Ruby
+
+#### Name: [Neeraj Verma](https://github.com/nvrocks)
+- Bio: Computer science student who loves android development
+- Programming Language: C,C++,Java
