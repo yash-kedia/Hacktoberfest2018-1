@@ -174,3 +174,6 @@
 - Bio: Business & Information Systems Engineering Student
 - Programming Language: Beginner in R, python, and Java
 
+#### Name: [Brandon Tran](https://github.com/IVIrTran)
+- Bio: Software Engineer
+- Programming Language: C, C++, Python, MatLab, R, Java
