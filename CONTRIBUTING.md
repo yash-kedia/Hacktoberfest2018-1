@@ -174,3 +174,6 @@
 - Bio: Business & Information Systems Engineering Student
 - Programming Language: Beginner in R, python, and Java
 
+#### Name: [Marcio Granzotto](https://github.com/marciogranzotto)
+- Bio: Android & iOS Developer. 3D Printing, IoT and Electronics enthusiast
+- Programming Language: Kotlin, Java, Swift, Objective-C, a little bit of Python and JS, C/C++
