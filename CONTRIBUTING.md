@@ -177,3 +177,8 @@
 #### Name: [Brandon Tran](https://github.com/IVIrTran)
 - Bio: Software Engineer
 - Programming Language: C, C++, Python, MatLab, R, Java
+
+#### Name: [Marcio Granzotto](https://github.com/marciogranzotto)
+- Bio: Android & iOS Developer. 3D Printing, IoT and Electronics enthusiast
+- Programming Language: Kotlin, Java, Swift, Objective-C, a little bit of Python and JS, C/C++
+
