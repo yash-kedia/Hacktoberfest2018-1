@@ -1,3 +1,7 @@
+#### Name: [Moji Tavoni](https://github.com/mojtabatmj)
+- Bio: I'm a Geek, life is unic.
+- Programming Language: Python, JavaScript, HTML, Css, PHP
+
 #### Name: [Abhey Rana](https://github.com/Abhey)
 - Bio: Computer Science undergraduate who loves to code
 - Programming Language: C, C++, Java, Python, HTML
@@ -9,10 +13,6 @@
 #### Name: [Hassan Talpur](https://github.com/hexabysmal)
 - Bio: Newbie trying to contribule to open source
 - Programming Language: Python, Js, HTML, Css, PHP, Java, React
-
-#### Name: [Moji Tavoni](https://github.com/mojtabatmj)
-- Bio: I'm a Geek
-- Programming Language: Python, Js, HTML, Css, PHP
 
 #### Name: [Alex Cueto](https://github.com/iCueto)
 - Bio: Just a simple developer who want to be the best
