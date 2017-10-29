@@ -182,3 +182,6 @@
 - Bio: Android & iOS Developer. 3D Printing, IoT and Electronics enthusiast
 - Programming Language: Kotlin, Java, Swift, Objective-C, a little bit of Python and JS, C/C++
 
+#### Name: [Dhruv Ramani](https://github.com/dhruvramani)
+- Bio: Computer Science undergraduate and an aspiring researcher.
+- Programming Language: Python, Javascript
