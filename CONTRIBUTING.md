@@ -185,3 +185,7 @@
 #### Name: [Dhruv Ramani](https://github.com/dhruvramani)
 - Bio: Computer Science undergraduate and an aspiring researcher.
 - Programming Language: Python, Javascript
+
+#### Name: [Amrit Gautam](https://github.com/amritg)
+- Bio: Software Engineering Student. Web Developer and IoT enthusiastic.
+- Programming Language: Javascript, Php, Ruby, Java
