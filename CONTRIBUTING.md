@@ -193,3 +193,7 @@
 #### Name: [Amrit Gautam](https://github.com/amritg)
 - Bio: Software Engineering Student. Web Developer and IoT enthusiastic.
 - Programming Language: Javascript, Php, Ruby, Java
+
+#### Name: [Leo Kettmeir](https://github.com/breaktruth)
+- Bio: Highschool Student with aspiration to creating things.
+- Programming Language: Javascript
