@@ -185,3 +185,7 @@
 #### Name: [Dhruv Ramani](https://github.com/dhruvramani)
 - Bio: Computer Science undergraduate and an aspiring researcher.
 - Programming Language: Python, Javascript
+
+#### Name: [Dhruv Ramani](https://github.com/dhruvramani)
+- Bio: Computer Science undergraduate and an aspiring researcher.
+- Programming Language: Python, Javascript
