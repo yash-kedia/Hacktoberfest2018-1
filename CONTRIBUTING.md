@@ -189,3 +189,15 @@
 #### Name: [Dhruv Ramani](https://github.com/dhruvramani)
 - Bio: Computer Science undergraduate and an aspiring researcher.
 - Programming Language: Python, Javascript
+
+#### Name: [Andreas Arvidsson](https://github.com/chip2n)
+- Bio: Android developer with a thirst for receiving free T-shirts
+- Programming Language: Kotlin, Python, Haskell
+
+#### Name: [Amrit Gautam](https://github.com/amritg)
+- Bio: Software Engineering Student. Web Developer and IoT enthusiastic.
+- Programming Language: Javascript, Php, Ruby, Java
+
+#### Name: [Leo Kettmeir](https://github.com/breaktruth)
+- Bio: Highschool Student with aspiration to creating things.
+- Programming Language: Javascript
