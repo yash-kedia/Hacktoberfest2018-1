@@ -58,6 +58,11 @@ use this model:
 - Bio: What are you gonna share with other?
 - Programming Language: Which programming language do you know
 
+Thank you to all the people who already contributed to Hacktoberfest2017!
+
+<a href="https://github.com/mojtabatmj/Hacktoberfest2017/graphs/contributors"></a>
+
+
 ### 2. Create a `Hello` Script in your way
 
 Add a yourusername.xx script in any language of your choice!
