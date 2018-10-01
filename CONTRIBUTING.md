@@ -201,3 +201,7 @@
 #### Name: [Leo Kettmeir](https://github.com/breaktruth)
 - Bio: Highschool Student with aspiration to creating things.
 - Programming Language: Javascript
+
+#### Name: [Raine Collins](https://github.com/Raineldn)
+- Bio: This year I found out I adore code! Happy Hacktoberfest everyone.
+- Programming Language: Javascript
