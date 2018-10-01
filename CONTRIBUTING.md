@@ -202,6 +202,10 @@
 - Bio: Highschool Student with aspiration to creating things.
 - Programming Language: Javascript
 
+#### Name: [Raine Collins](https://github.com/Raineldn)
+- Bio: This year I found out I adore code! Happy Hacktoberfest everyone.
+- Programming Language: Javascript
+
 #### Name: [Arjun Rajpal](https://github.com/arjunrajpal)
 - Bio: Software Engineer - Coder - ML Enthusiast
 - Programming Language: C, C++, Python, Java, NodeJS, PHP
@@ -214,7 +218,7 @@
 - Bio : Computer Science undergraduate 
 - Programming Language: Javascript
 
-### Name: [Prashant Bajaj](https://github.com/bajaj99prashant)
+#### Name: [Prashant Bajaj](https://github.com/bajaj99prashant)
 - Bio: computer science student having aspiration in frontend web development.
 -Programming Language: Javascript
 
