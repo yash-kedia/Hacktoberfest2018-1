@@ -18,7 +18,7 @@ Celebrate HacktoberFest by getting involved in the Open Source Community by comp
 
 This is a Public Repository open to all members of the GitHub Community. Any member of the community may contribute to this project without being a collaborator.
 
-+ https://alicewonderland.github.io/hacktoberfest/
++ https://github.com/mojtabatmj/Hacktoberfest2018
 
 ### What is Hacktoberfest?
 
@@ -38,7 +38,7 @@ Choose one or all 2, make a Pull Request for your work, wait for it to be merged
 
 Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 Clone your fork down to your local machine
-git clone https://github.com/mojtabatmj/Hacktoberfest2017.git
+git clone https://github.com/mojtabatmj/Hacktoberfest2018.git
 Create a branch
 git checkout -b branch-name
 Make your changes (Choose from any task below)
@@ -58,9 +58,9 @@ use this model:
 - Bio: What are you gonna share with other?
 - Programming Language: Which programming language do you know
 
-Thank you to all the people who already contributed to Hacktoberfest2017!
+Thank you to all the people who already contributed to Hacktoberfest2018!
 
-<a href="https://github.com/mojtabatmj/Hacktoberfest2017/graphs/contributors"></a>
+<a href="https://github.com/mojtabatmj/Hacktoberfest2018/graphs/contributors"></a>
 
 
 ### 2. Create a `Hello` Script in your way
