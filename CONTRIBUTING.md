@@ -202,6 +202,10 @@
 - Bio: Highschool Student with aspiration to creating things.
 - Programming Language: Javascript
 
+#### Name: [Suvin Nimnaka](https://github.com/suvink)
+- Bio: Just completed Advanced leven and a tech enthusiast.
+- Programming Language: HTML,PHP,JAVA,GOlang, Python
+
 #### Name: [Pankhuri Kasliwal](https://github.com/pankhuri22)
 - Bio : Computer Science undergraduate 
 - Programming Language: Javascript
