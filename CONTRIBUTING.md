@@ -202,6 +202,10 @@
 - Bio: Highschool Student with aspiration to creating things.
 - Programming Language: Javascript
 
+#### Name: [Pankhuri Kasliwal](https://github.com/pankhuri22)
+- Bio : Computer Science undergraduate 
+- Programming Language: Javascript
+
 ### Name: [Prashant Bajaj](https://github.com/bajaj99prashant)
 - Bio: computer science student having aspiration in frontend web development.
 -Programming Language: Javascript
