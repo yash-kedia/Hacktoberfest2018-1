@@ -201,3 +201,7 @@
 #### Name: [Leo Kettmeir](https://github.com/breaktruth)
 - Bio: Highschool Student with aspiration to creating things.
 - Programming Language: Javascript
+
+#### Name: [Arjun Rajpal](https://github.com/arjunrajpal)
+- Bio: Software Engineer - Coder - ML Enthusiast
+- Programming Language: C, C++, Python, Java, NodeJS, PHP
