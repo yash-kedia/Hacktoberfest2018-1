@@ -205,3 +205,17 @@
 #### Name: [Arjun Rajpal](https://github.com/arjunrajpal)
 - Bio: Software Engineer - Coder - ML Enthusiast
 - Programming Language: C, C++, Python, Java, NodeJS, PHP
+
+#### Name: [Suvin Nimnaka](https://github.com/suvink)
+- Bio: Just completed Advanced leven and a tech enthusiast.
+- Programming Language: HTML,PHP,JAVA,GOlang, Python
+
+#### Name: [Pankhuri Kasliwal](https://github.com/pankhuri22)
+- Bio : Computer Science undergraduate 
+- Programming Language: Javascript
+
+### Name: [Prashant Bajaj](https://github.com/bajaj99prashant)
+- Bio: computer science student having aspiration in frontend web development.
+-Programming Language: Javascript
+
+
