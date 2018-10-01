@@ -206,6 +206,10 @@
 - Bio: This year I found out I adore code! Happy Hacktoberfest everyone.
 - Programming Language: Javascript
 
+#### Name: [Arjun Rajpal](https://github.com/arjunrajpal)
+- Bio: Software Engineer - Coder - ML Enthusiast
+- Programming Language: C, C++, Python, Java, NodeJS, PHP
+
 #### Name: [Suvin Nimnaka](https://github.com/suvink)
 - Bio: Just completed Advanced leven and a tech enthusiast.
 - Programming Language: HTML,PHP,JAVA,GOlang, Python
@@ -217,3 +221,5 @@
 #### Name: [Prashant Bajaj](https://github.com/bajaj99prashant)
 - Bio: computer science student having aspiration in frontend web development.
 -Programming Language: Javascript
+
+
