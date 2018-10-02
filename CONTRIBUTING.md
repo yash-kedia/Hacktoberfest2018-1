@@ -222,4 +222,8 @@
 - Bio: computer science student having aspiration in frontend web development.
 -Programming Language: Javascript
 
+#### Name:[Yash Kedia](https://github.com/yash-kedia)
+-Bio :computer science student at jiit noida
+-Programming Language :JavaScript ,Css ,Python ,c++,c
+
 
